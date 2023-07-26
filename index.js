@@ -1,2 +1,2 @@
-const a = 10;
-console.log(a);
+const express = require('express');
+const mongoose = require('mongoose');
